@@ -1,5 +1,7 @@
 # Sobra da Corrida
 
+![Apresentação de Sobra da Corrida](assets/banner.png)
+
 **Acompanhamento de receitas e despesas de motoristas e entregadores.**
 
 Sobra da Corrida é uma solução Gentill em desenvolvimento, com interface em **português brasileiro** e foco em uso simples.
@@ -9,6 +11,12 @@ Sobra da Corrida é uma solução Gentill em desenvolvimento, com interface em *
 - Registre os turnos de trabalho
 - Anote combustível e outras despesas
 - Calcule o resultado estimado por jornada
+
+## Identidade visual
+
+![Ícone de Sobra da Corrida](assets/icon.png)
+
+[Ver peça comercial](assets/post.png)
 
 ## Desenvolvimento
 
